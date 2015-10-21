@@ -12,9 +12,11 @@ https://github.com/DaHoC/trainHOG
 ~~~
 
 TODO:
+~~~
 Add Liblinear.
 Add rect train tool.
 Add GUI.
+~~~
 
 Use other SVM solvers:
 ~~~
