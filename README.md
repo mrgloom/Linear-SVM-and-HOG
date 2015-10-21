@@ -14,7 +14,10 @@ https://github.com/DaHoC/trainHOG
 TODO:
 ~~~
 Add Liblinear.
+https://github.com/cjlin1/liblinear
+
 Add rect train tool.
+
 Add GUI.
 ~~~
 
