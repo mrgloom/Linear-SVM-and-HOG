@@ -6,6 +6,7 @@ Similar projects:
 use LibSVM and SVMLight
 https://github.com/DaHoC/trainHOG
 
+LibSVM
 https://github.com/niosus/HOGclassifier
 
 Example in OpenCV(OpenCV use LibSVM internally)
