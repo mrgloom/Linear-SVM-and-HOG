@@ -17,6 +17,7 @@ Add Liblinear.
 https://github.com/cjlin1/liblinear
 
 Add rect train tool.
+https://github.com/Itseez/opencv/blob/ddf82d0b154873510802ef75c53e628cd7b2cb13/apps/annotation/opencv_annotation.cpp
 
 Add GUI.
 ~~~
