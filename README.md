@@ -17,6 +17,12 @@ http://kuantinglai.blogspot.ru/2013/07/using-libsvm-with-opencv-mat.html
 
 ~~~
 
+Papers:
+~~~
+"Why do linear SVMs trained on HOG features perform so well?"
+http://arxiv.org/abs/1406.2419
+~~~
+
 TODO:
 ~~~
 Add Liblinear.
