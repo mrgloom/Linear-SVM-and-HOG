@@ -17,6 +17,8 @@ http://kuantinglai.blogspot.ru/2013/07/using-libsvm-with-opencv-mat.html
 
 maybe we can use dlib, also it have some SVM's and Pegasos solver.
 http://dlib.net/fhog_object_detector_ex.cpp.html
+
+https://github.com/bikz05/object-detector
 ~~~
 
 Papers:
