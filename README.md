@@ -25,6 +25,9 @@ Papers:
 ~~~
 "Why do linear SVMs trained on HOG features perform so well?"
 http://arxiv.org/abs/1406.2419
+
+"Lecture 2: The SVM classifier"
+http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf
 ~~~
 
 TODO:
