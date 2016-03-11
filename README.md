@@ -21,6 +21,11 @@ http://dlib.net/fhog_object_detector_ex.cpp.html
 https://github.com/bikz05/object-detector
 ~~~
 
+HOG
+~~~
+https://github.com/ivanaslamov/hog_sse
+~~~
+
 Papers:
 ~~~
 "Why do linear SVMs trained on HOG features perform so well?"
