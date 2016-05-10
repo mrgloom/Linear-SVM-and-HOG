@@ -20,6 +20,10 @@ http://dlib.net/fhog_object_detector_ex.cpp.html
 
 Python
 https://github.com/bikz05/object-detector
+
+Matlab
+https://github.com/chtran/computer_vision/tree/master/proj4/code
+https://github.com/vedaldi/practical-object-category-detection/
 ~~~
 
 HOG
