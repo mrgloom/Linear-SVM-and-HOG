@@ -1,6 +1,11 @@
 # Linear-SVM-and-HOG
 Implementation of linear SVM and HOG
 
+Markup tools:
+~~~
+https://github.com/tzutalin/labelImg
+~~~
+
 Similar projects:
 ~~~
 use LibSVM and SVMLight
