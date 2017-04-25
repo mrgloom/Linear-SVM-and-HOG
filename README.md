@@ -36,6 +36,11 @@ HOG
 https://github.com/ivanaslamov/hog_sse
 ~~~
 
+Non-maxima supression:
+~~~
+https://github.com/Nuzhny007/Non-Maximum-Suppression
+~~~
+
 Papers:
 ~~~
 "Why do linear SVMs trained on HOG features perform so well?"
